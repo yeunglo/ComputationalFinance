@@ -1,0 +1,4 @@
+﻿Portfolio NO.,Picked Reason,Expected Returns,Risk (Std. Deviation),Sharpe Ratio,Value of MV Model,CCH.L Weight,PPB.L Weight,CPG.L Weight
+873,Min Risk,0.001097,0.011521,0.095249,-0.004663,0.187178,0.130513,0.682308
+43,Max Sharpe Ratio,0.001707,0.014418,0.118403,-0.005502,0.268469,0.469641,0.26189
+3791,Max value in MV Model,0.001206,0.011634,0.103645,-0.004611,0.202728,0.190504,0.606768
